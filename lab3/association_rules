@@ -1,0 +1,35 @@
+import pandas as pd
+from mlxtend.preprocessing import TransactionEncoder
+from mlxtend.frequent_patterns import apriori, association_rules
+import os
+from pathlib import Path
+
+FILE_SRC_PATH = Path(r"C:\Users\mwicz\Documents\Czarnowski\-Exploration-of-internet-resources\lab3\input\cleaned_apache_logs.txt")
+FILE_DEST_PATH = Path(r"C:\Users\mwicz\Documents\Czarnowski\-Exploration-of-internet-resources\lab3\output\association_rules.txt")
+
+# Odczyt logów z pliku
+with open(FILE_SRC_PATH, 'r') as file:
+    lines = [next(file) for _ in range(859)]  # Odczytaj tylko pierwsze 1000 linii
+
+# Przetworzenie danych logów
+logs_list = [[line.split()[11]] for line in lines]
+
+# Tworzenie ramki danych dla transakcji
+te = TransactionEncoder()
+te_ary = te.fit_transform(logs_list)
+df = pd.DataFrame(te_ary, columns=te.columns_)
+
+# Wyszukiwanie częstych zbiorów
+frequent_itemsets = apriori(df, min_support=0.1, use_colnames=True)
+
+# Generowanie reguł asocjacyjnych
+rules = association_rules(frequent_itemsets, metric="lift", min_threshold=1.5)
+
+# Zapis wyników do pliku
+with open(FILE_DEST_PATH, 'w') as output_file:
+    output_file.write("Association Rule Analysis Based on Logs:\n\n")
+    output_file.write("Frequent Itemsets:\n")
+    output_file.write(str(frequent_itemsets) + "\n\n")
+    output_file.write("Association Rules:\n")
+    output_file.write(str(rules))
+
