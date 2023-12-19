@@ -1,0 +1,11 @@
+Association Rule Analysis Based on Logs:
+
+Frequent Itemsets:
+    support        itemsets
+0  0.651921  ("Mozilla/5.0)
+1  0.107101  ("msnbot/2.0b)
+
+Association Rules:
+Empty DataFrame
+Columns: [antecedents, consequents, antecedent support, consequent support, support, confidence, lift, leverage, conviction, zhangs_metric]
+Index: []

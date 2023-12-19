@@ -1,0 +1,177 @@
+Most requested resources in directories:
+presentations:
+	/presentations/logstash-scale11x/images/ahhh___rage_face_by_samusmmx-d5g5zap.png: 128 requests
+	/presentations/logstash-puppetconf-2012/: 51 requests
+	/presentations/puppet-at-loggly/puppet-at-loggly.pdf.html: 37 requests
+	/presentations/logstash-puppetconf-2012/images/kibana-logstash-downloads.png: 33 requests
+	/presentations/logstash-scale11x/images/logstash.png: 33 requests
+articles:
+	/articles/dynamic-dns-with-dhcp/: 135 requests
+	/articles/ssh-security/: 55 requests
+	/articles/ppp-over-ssh/: 30 requests
+	/articles/openldap-with-saslauthd/: 18 requests
+	/articles/arp-security/: 16 requests
+images:
+	/images/jordan-80.png: 533 requests
+	/images/web/2009/banner.png: 516 requests
+	/images/googledotcom.png: 101 requests
+	/images/logstash_OSCON.pdf: 47 requests
+	/images/ec2_m1large_cost.png: 8 requests
+blog:
+	/blog/tags/puppet?flav=rss20: 488 requests
+	/blog/geekery/ssl-latency.html: 77 requests
+	/blog/tags/firefox?flav=rss20: 58 requests
+	/blog/geekery/disabling-battery-in-ubuntu-vms.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+semicomplete%2Fmain+%28semicomplete.com+-+Jordan+Sissel%29: 46 requests
+	/blog/geekery/solving-good-or-bad-problems.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+semicomplete%2Fmain+%28semicomplete.com+-+Jordan+Sissel%29: 42 requests
+/:
+	/: 197 requests
+projects:
+	/projects/xdotool/: 224 requests
+	/projects/xdotool/xdotool.xhtml: 154 requests
+	/projects/keynav/: 30 requests
+	/projects/xdotool: 21 requests
+	/projects/keynav/demo-thumb.png: 14 requests
+doc:
+	/doc/index.html?org/elasticsearch/action/search/SearchResponse.html: 1 requests
+	/doc/org/elasticsearch/action/support/master/TransportMasterNodeOperationAction.html: 1 requests
+/test.xml:
+	/test.xml: 9 requests
+/robots.txt:
+	/robots.txt: 180 requests
+/?flav=rss20:
+	/?flav=rss20: 217 requests
+/?flav=atom:
+	/?flav=atom: 137 requests
+files:
+	/files/logstash/logstash-1.3.2-monolithic.jar: 61 requests
+	/files/logstash/: 20 requests
+	/files/logstash/logstash-1.1.0-monolithic.jar: 17 requests
+	/files/xdotool/docs/html/xdo_8h.html: 15 requests
+	/files/xdotool/docs/: 14 requests
+scripts:
+	/scripts/?C=M;O=A: 3 requests
+	/scripts/python/wrap/wrap.py: 3 requests
+	/scripts/: 2 requests
+	/scripts/?C=M;O=D: 2 requests
+	/scripts/netcat-webserver: 2 requests
+/?N=A&page=21:
+	/?N=A&page=21: 1 requests
+/blog:
+	/blog: 23 requests
+/favicon.ico:
+	/favicon.ico: 60 requests
+/resume.xml:
+	/resume.xml: 19 requests
+icons:
+	/icons/blank.gif: 25 requests
+	/icons/back.gif: 23 requests
+	/icons/folder.gif: 15 requests
+	/icons/text.gif: 12 requests
+	/icons/unknown.gif: 12 requests
+misc:
+	/misc/sample.log: 24 requests
+	/misc/viquickref.pdf: 3 requests
+	/misc/rcfiles/vimrc: 3 requests
+	/misc/funkyoutput: 2 requests
+	/misc/rcfiles/zshrc: 2 requests
+/wp-login.php:
+	/wp-login.php: 6 requests
+administrator:
+	/administrator/: 4 requests
+	/administrator/index.php: 2 requests
+/reset.css:
+	/reset.css: 14 requests
+/style2.css:
+	/style2.css: 15 requests
+/?page=2:
+	/?page=2: 5 requests
+about:
+	/about/: 14 requests
+	/about/wal:RecentChanges&quo: 1 requests
+	/about/tal:RecentChanges&quo: 1 requests
+/articles:
+	/articles: 10 requests
+/projects:
+	/projects: 7 requests
+/scripts:
+	/scripts: 6 requests
+demo:
+	/demo/jquery-magicpuff.html: 1 requests
+	/demo/jquery-magicpuff.html?iframe=true&width=100%&height=100%: 1 requests
+	/demo/jquery-magicpuff.html?iframe=true&width=100%25&height=100%25: 1 requests
+/?page=1:
+	/?page=1: 2 requests
+/admin.php:
+	/admin.php: 4 requests
+/apple-touch-icon-120x120-precomposed.png:
+	/apple-touch-icon-120x120-precomposed.png: 1 requests
+/apple-touch-icon-120x120.png:
+	/apple-touch-icon-120x120.png: 1 requests
+/apple-touch-icon-precomposed.png:
+	/apple-touch-icon-precomposed.png: 2 requests
+/apple-touch-icon.png:
+	/apple-touch-icon.png: 3 requests
+kibana:
+	/kibana/: 17 requests
+	/kibana/css/style.css: 1 requests
+	/kibana/bootstrap/css/bootstrap.min.css: 1 requests
+	/kibana/loader2.php?page=eyJzZWFyY2giOiIiLCJmaWVsZHMiOltdLCJvZmZzZXQiOjAsInRpbWVmcmFtZSI6IjE1IG1pbnV0ZXMiLCJncmFwaG1vZGUiOiJjb3VudCJ9&_=1391904000000: 1 requests
+	/kibana/css/jquery-ui-1.8.16.custom.css: 1 requests
+/resume.xsl:
+	/resume.xsl: 6 requests
+/resume.css:
+	/resume.css: 5 requests
+/wp-login.php?action=register:
+	/wp-login.php?action=register: 6 requests
+~psionic:
+	/~psionic/projects/securitrack/config.xsl: 1 requests
+	/~psionic/projects/securitrack/config.xml: 1 requests
+node:
+	/node/add/blog: 1 requests
+geekery:
+	/geekery/find-that-lost-screen-session.html: 2 requests
+	/geekery/find-that-lost-screen-session-2.html: 1 requests
+wordpress:
+	/wordpress/wp-admin/: 5 requests
+wp-admin:
+	/wp-admin/: 6 requests
+wp:
+	/wp/wp-admin/: 6 requests
+/browserconfig.xml:
+	/browserconfig.xml: 3 requests
+/?page=3:
+	/?page=3: 4 requests
+/?page=28:
+	/?page=28: 1 requests
+/sitemap.xml:
+	/sitemap.xml: 1 requests
+:
+	//favicon.ico: 1 requests
+/blog?page=19:
+	/blog?page=19: 1 requests
+user:
+	/user/register: 1 requests
+/?page=4:
+	/?page=4: 2 requests
+/?page=5:
+	/?page=5: 3 requests
+/?page=6:
+	/?page=6: 2 requests
+/blog?page=17:
+	/blog?page=17: 1 requests
+image:
+	/image/logstash.png: 4 requests
+/?page=35:
+	/?page=35: 1 requests
+logging:
+	/logging/: 2 requests
+/?page=7:
+	/?page=7: 1 requests
+/presentations:
+	/presentations: 1 requests
+svnweb:
+	/svnweb/xpathtool/: 1 requests
+/?page=12:
+	/?page=12: 1 requests
+/?page=25:
+	/?page=25: 1 requests
